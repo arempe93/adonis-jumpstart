@@ -22,7 +22,7 @@ CREATE DATABASE databasename_test;
 ### 3. Run setup utility
 
 ```sh
-adonis setup
+./setup.sh
 ```
 
 *See code at `app/Commands/Setup.js`*
